@@ -13,20 +13,14 @@
 
 ---------------------------------------------------------------------------------------------------  
 
-#  
-#  
-#  
-#  
-
----------------------------------------------------------------------------------------------------  
-
-
 What is this mod about?
   
    * Space exploration, all planets, always in the daytime, not in the dark.
    * Let the game not hurt your eyes due to long-term playing, and provide a friendly and extreme experience.
    * Chinese translation package containing other MODs.
    * Well pump  space station can be built, Incinerator   space station can be built, patch.
+     
+---------------------------------------------------------------------------------------------------  
 
 Code has comments！！！💟
   
