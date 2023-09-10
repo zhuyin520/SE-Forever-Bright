@@ -1,0 +1,20 @@
+{
+  "name": "ZY-CN",               
+  "version": "0.0.3",            
+  "factorio_version": "1.1",     
+  "title": "ZY-CN",              
+  "author": " ZY",               
+  "description": "SE-Forever Bright,(incinerator)(water-well-pump)Allow construction in space stations",      
+  "dependencies": [              
+    "base >= 1.1.0"
+   
+  ]
+}
+
+
+
+
+
+  
+	
+	
